@@ -1,0 +1,390 @@
+[
+	{
+		"id": 1,
+		"numberrange": 1
+	},
+	{
+		"id": 2,
+		"numberrange": 19
+	},
+	{
+		"id": 3,
+		"numberrange": 12
+	},
+	{
+		"id": 4,
+		"numberrange": 67
+	},
+	{
+		"id": 5,
+		"numberrange": 29
+	},
+	{
+		"id": 6,
+		"numberrange": 47
+	},
+	{
+		"id": 7,
+		"numberrange": 12
+	},
+	{
+		"id": 8,
+		"numberrange": 61
+	},
+	{
+		"id": 9,
+		"numberrange": 21
+	},
+	{
+		"id": 10,
+		"numberrange": 36
+	},
+	{
+		"id": 11,
+		"numberrange": 51
+	},
+	{
+		"id": 12,
+		"numberrange": 73
+	},
+	{
+		"id": 13,
+		"numberrange": 56
+	},
+	{
+		"id": 14,
+		"numberrange": 80
+	},
+	{
+		"id": 15,
+		"numberrange": 96
+	},
+	{
+		"id": 16,
+		"numberrange": 29
+	},
+	{
+		"id": 17,
+		"numberrange": 62
+	},
+	{
+		"id": 18,
+		"numberrange": 95
+	},
+	{
+		"id": 19,
+		"numberrange": 93
+	},
+	{
+		"id": 20,
+		"numberrange": 22
+	},
+	{
+		"id": 21,
+		"numberrange": 41
+	},
+	{
+		"id": 22,
+		"numberrange": 28
+	},
+	{
+		"id": 23,
+		"numberrange": 61
+	},
+	{
+		"id": 24,
+		"numberrange": 43
+	},
+	{
+		"id": 25,
+		"numberrange": 31
+	},
+	{
+		"id": 26,
+		"numberrange": 30
+	},
+	{
+		"id": 27,
+		"numberrange": 49
+	},
+	{
+		"id": 28,
+		"numberrange": 24
+	},
+	{
+		"id": 29,
+		"numberrange": 30
+	},
+	{
+		"id": 30,
+		"numberrange": 98
+	},
+	{
+		"id": 31,
+		"numberrange": 58
+	},
+	{
+		"id": 32,
+		"numberrange": 71
+	},
+	{
+		"id": 33,
+		"numberrange": 41
+	},
+	{
+		"id": 34,
+		"numberrange": 76
+	},
+	{
+		"id": 35,
+		"numberrange": 37
+	},
+	{
+		"id": 36,
+		"numberrange": 37
+	},
+	{
+		"id": 37,
+		"numberrange": 90
+	},
+	{
+		"id": 38,
+		"numberrange": 63
+	},
+	{
+		"id": 39,
+		"numberrange": 37
+	},
+	{
+		"id": 40,
+		"numberrange": 61
+	},
+	{
+		"id": 41,
+		"numberrange": 5
+	},
+	{
+		"id": 42,
+		"numberrange": 46
+	},
+	{
+		"id": 43,
+		"numberrange": 68
+	},
+	{
+		"id": 44,
+		"numberrange": 74
+	},
+	{
+		"id": 45,
+		"numberrange": 42
+	},
+	{
+		"id": 46,
+		"numberrange": 24
+	},
+	{
+		"id": 47,
+		"numberrange": 0
+	},
+	{
+		"id": 48,
+		"numberrange": 78
+	},
+	{
+		"id": 49,
+		"numberrange": 9
+	},
+	{
+		"id": 50,
+		"numberrange": 19
+	},
+	{
+		"id": 51,
+		"numberrange": 36
+	},
+	{
+		"id": 52,
+		"numberrange": 65
+	},
+	{
+		"id": 53,
+		"numberrange": 68
+	},
+	{
+		"id": 54,
+		"numberrange": 22
+	},
+	{
+		"id": 55,
+		"numberrange": 13
+	},
+	{
+		"id": 56,
+		"numberrange": 28
+	},
+	{
+		"id": 57,
+		"numberrange": 90
+	},
+	{
+		"id": 58,
+		"numberrange": 15
+	},
+	{
+		"id": 59,
+		"numberrange": 51
+	},
+	{
+		"id": 60,
+		"numberrange": 74
+	},
+	{
+		"id": 61,
+		"numberrange": 11
+	},
+	{
+		"id": 62,
+		"numberrange": 35
+	},
+	{
+		"id": 63,
+		"numberrange": 25
+	},
+	{
+		"id": 64,
+		"numberrange": 92
+	},
+	{
+		"id": 65,
+		"numberrange": 44
+	},
+	{
+		"id": 66,
+		"numberrange": 91
+	},
+	{
+		"id": 67,
+		"numberrange": 54
+	},
+	{
+		"id": 68,
+		"numberrange": 14
+	},
+	{
+		"id": 69,
+		"numberrange": 18
+	},
+	{
+		"id": 70,
+		"numberrange": 23
+	},
+	{
+		"id": 71,
+		"numberrange": 50
+	},
+	{
+		"id": 72,
+		"numberrange": 47
+	},
+	{
+		"id": 73,
+		"numberrange": 96
+	},
+	{
+		"id": 74,
+		"numberrange": 93
+	},
+	{
+		"id": 75,
+		"numberrange": 75
+	},
+	{
+		"id": 76,
+		"numberrange": 44
+	},
+	{
+		"id": 77,
+		"numberrange": 4
+	},
+	{
+		"id": 78,
+		"numberrange": 29
+	},
+	{
+		"id": 79,
+		"numberrange": 14
+	},
+	{
+		"id": 80,
+		"numberrange": 14
+	},
+	{
+		"id": 81,
+		"numberrange": 30
+	},
+	{
+		"id": 82,
+		"numberrange": 14
+	},
+	{
+		"id": 83,
+		"numberrange": 34
+	},
+	{
+		"id": 84,
+		"numberrange": 29
+	},
+	{
+		"id": 85,
+		"numberrange": 67
+	},
+	{
+		"id": 86,
+		"numberrange": 27
+	},
+	{
+		"id": 87,
+		"numberrange": 64
+	},
+	{
+		"id": 88,
+		"numberrange": 35
+	},
+	{
+		"id": 89,
+		"numberrange": 86
+	},
+	{
+		"id": 90,
+		"numberrange": 92
+	},
+	{
+		"id": 91,
+		"numberrange": 77
+	},
+	{
+		"id": 92,
+		"numberrange": 84
+	},
+	{
+		"id": 93,
+		"numberrange": 16
+	},
+	{
+		"id": 94,
+		"numberrange": 88
+	},
+	{
+		"id": 95,
+		"numberrange": 93
+	},
+	{
+		"id": 96,
+		"numberrange": 56
+	},
+	{
+		"id": 97,
+		"numberrange": 71
+	}
+]
